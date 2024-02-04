@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="image/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/LATITUDE/Desktop/Bureau/dev/JAR&apos;s utilisé/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LATITUDE/Desktop/Bureau/dev/JAR&apos;s utilisé/flatlaf-demo-0.33.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LATITUDE/Desktop/Bureau/dev/JAR&apos;s utilisé/Gradianto-3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LATITUDE/Desktop/Bureau/dev/JAR&apos;s utilisé/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LATITUDE/Desktop/Bureau/dev/JAR&apos;s utilisé/itextpdf-5.5.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LATITUDE/Desktop/Bureau/dev/JAR&apos;s utilisé/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LATITUDE/Desktop/Bureau/dev/JAR&apos;s utilisé/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LATITUDE/Desktop/Bureau/dev/JAR&apos;s utilisé/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LATITUDE/Desktop/Bureau/dev/JAR&apos;s utilisé/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LATITUDE/Desktop/Bureau/dev/JAR&apos;s utilisé/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LATITUDE/Desktop/Bureau/dev/JAR&apos;s utilisé/sqlite-jdbc-3.27.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
