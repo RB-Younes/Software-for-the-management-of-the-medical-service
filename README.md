@@ -23,11 +23,11 @@ For more details about the project, read the files named "Guide d'utilisation.do
 
 ## Some Screenshots
 <p align="center">
-  <img src="Screen-shots/cap 1.png">
-  <img src="Screen-shots/2.png">
-  <img src="Screen-shots/3.png">
-  <img src="Screen-shots/4.png">
-  <img src="Screen-shots/5.png">
+  <img width="300"; src="Screen-shots/cap 1.png">
+  <img width="300"; src="Screen-shots/cap 2.png">
+  <img width="300"; src="Screen-shots/cap 3.png">
+  <img width="300"; src="Screen-shots/cap 4.png">
+
 </p>
 
 ## Contributors
